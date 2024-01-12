@@ -7,4 +7,4 @@ https://thefiddler.substack.com
 | ---------- | ----------------------------------------------- | ------- | ----- |
 | 2023-11-17 | Can You Flip the Coins Exactly as You’d Expect? | X       | X     |
 | 2023-12-01 | Can You Race Around the Monopoly Board?         | X       | X     |
-| 2023-12-12 | Can You Roll the Dungeon Master’s Dice?         |         |       |
+| 2023-12-12 | Can You Roll the Dungeon Master’s Dice?         | X       |       |
