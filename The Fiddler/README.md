@@ -10,3 +10,4 @@ https://thefiddler.substack.com
 | 2024-01-12 | Can You Roll the Dungeon Master’s Dice?         | X       |       |
 | 2023-01-19 | Can You Make It Home in Time for Pancakes?      | X       |       |
 | 2023-01-26 | Can You Race Across the Chess Board?            | X       |       |
+| 2024-03-09 | How Many Loops Can You Slither Around?          | X       |       |
