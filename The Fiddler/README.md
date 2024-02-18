@@ -11,3 +11,4 @@ https://thefiddler.substack.com
 | 2023-01-19 | Can You Make It Home in Time for Pancakes?      | X       |       |
 | 2023-01-26 | Can You Race Across the Chess Board?            | X       |       |
 | 2024-03-09 | How Many Loops Can You Slither Around?          | X       |       |
+| 2024-03-18 | Can You Sum Some Cards? 				           | X       |       |
