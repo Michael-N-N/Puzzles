@@ -12,3 +12,5 @@ https://thefiddler.substack.com
 | 2023-01-26 | Can You Race Across the Chess Board?            | X       |       |
 | 2024-03-09 | How Many Loops Can You Slither Around?          | X       |       |
 | 2024-03-18 | Can You Sum Some Cards? 				           | X       |       |
+| 2024-05-24 | Can You Win at Non-Traditional Blackjack?       | X       |       |
+
