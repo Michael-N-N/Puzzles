@@ -13,4 +13,5 @@ https://thefiddler.substack.com
 | 2024-03-09 | How Many Loops Can You Slither Around?          | X       |       |
 | 2024-03-18 | Can You Sum Some Cards? 				           | X       |       |
 | 2024-05-24 | Can You Win at Non-Traditional Blackjack?       | X       |       |
+| 2024-06-25 | Can You Pack the Circles?	  				   | X       |       |
 
