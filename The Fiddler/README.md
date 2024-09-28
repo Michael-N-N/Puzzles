@@ -14,4 +14,6 @@ https://thefiddler.substack.com
 | 2024-03-18 | Can You Sum Some Cards? 				           | X       |       |
 | 2024-05-24 | Can You Win at Non-Traditional Blackjack?       | X       |       |
 | 2024-06-25 | Can You Pack the Circles?	  				   | X       |       |
+| 2024-09-27 | Can You Win at “Rock, Paper, Scissors, Lizard, Spock? | X       |       |
+
 
