@@ -16,3 +16,4 @@ https://thefiddler.substack.com
 | 2024-06-25 | Can You Pack the Circles?	  				   | X       |       |
 | 2024-09-27 | Can You Win at “Rock, Paper, Scissors, Lizard, Spock? | X       |       |
 | 2024-10-04 | How Many Dice Can You Roll the Same? | X       |       |
+| 2024-10-11 | Will You Top the Leaderboard? | X       |       |
