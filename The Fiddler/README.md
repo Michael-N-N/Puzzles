@@ -23,5 +23,7 @@ https://thefiddler.substack.com
 | 2024-11-01 | What’s the Area of a “Pseudo-Square”? 			| X       |       |
 | 2024-11-08 | Where will the sorting hat put you?				| X       |       |
 | 2024-11-29 | Did xkcd Get its Math Right? 					| X       |       |
+| 2024-12-06 | an You Squeeze the Particles Into the Box?		| X       |       |
+
 
 
