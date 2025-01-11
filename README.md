@@ -41,3 +41,5 @@ https://thefiddler.substack.com
 | 2024-11-29 | Did xkcd Get its Math Right? 					|
 | 2024-12-06 | Can You Squeeze the Particles Into the Box?		|
 | 2024-12-13 | Can You Survive “The Floor”?		|
+| 2025-01-10 | Can You Survive Squid Game (Season 2)?|
+
