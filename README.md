@@ -44,5 +44,6 @@ https://thefiddler.substack.com
 | 2025-01-10 | Can You Survive Squid Game (Season 2)?|
 | 2025-01-17 | Can You Break the Bell Curve? |
 | 2025-01-24 | Can You Hop to the Lily Pad? |
-| 2025-01-17 | Can You Defend Your Trivia Knowledge? |
-| 2025-01-28 | How Many Rabbits Can You Pull out of a Hat? |
+| 2025-02-21 | Can You Defend Your Trivia Knowledge? |
+| 2025-02-28 | How Many Rabbits Can You Pull out of a Hat? |
+| 2025-03-08 | Can You Tip the Dominoes? |
