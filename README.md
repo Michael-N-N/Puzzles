@@ -48,3 +48,4 @@ https://thefiddler.substack.com
 | 2025-02-28 | How Many Rabbits Can You Pull out of a Hat? |
 | 2025-03-08 | Can You Tip the Dominoes? |
 | 2025-03-14 | A Pi Day Puzzle |
+| 2025-05-16 | Can You Permeate the Pyramid? |
