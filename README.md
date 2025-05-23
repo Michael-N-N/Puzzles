@@ -49,3 +49,4 @@ https://thefiddler.substack.com
 | 2025-03-08 | Can You Tip the Dominoes? |
 | 2025-03-14 | A Pi Day Puzzle |
 | 2025-05-16 | Can You Permeate the Pyramid? |
+| 2025-05-23 | How Long Is the River? |
