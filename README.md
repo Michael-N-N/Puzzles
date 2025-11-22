@@ -50,3 +50,5 @@ https://thefiddler.substack.com
 | 2025-03-14 | A Pi Day Puzzle |
 | 2025-05-16 | Can You Permeate the Pyramid? |
 | 2025-05-23 | How Long Is the River? |
+| 2025-11-21 | A Loopy Holiday Gift Exchange
+ |
